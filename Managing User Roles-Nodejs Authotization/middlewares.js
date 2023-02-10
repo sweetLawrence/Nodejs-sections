@@ -30,4 +30,4 @@ module.exports = {
 //     name:"lawrence",
 //     courses:[220,212,444,555],
 //     role:"student"
-// }
+// } -- uaw this as the test data when testing with postman
